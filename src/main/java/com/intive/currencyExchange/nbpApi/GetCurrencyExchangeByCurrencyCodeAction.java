@@ -11,7 +11,7 @@ class GetCurrencyExchangeByCurrencyCodeAction {
     private final RestTemplate restTemplate;
 
     @Autowired
-  public   GetCurrencyExchangeByCurrencyCodeAction(RestTemplate restTemplate) {
+    public GetCurrencyExchangeByCurrencyCodeAction(RestTemplate restTemplate) {
         this.restTemplate = restTemplate;
     }
 
