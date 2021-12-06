@@ -1,8 +1,8 @@
 ## Documentation
 
 ###Launching the application
-1. Download the application - clone the repository with the command: 
-git clone https://github.com/Katarzyna-Zamorska/currency_exchange.git
+1. Download the application - clone the repository with the command:
+   https://github.com/Katarzyna-Zamorska/currencyExchange.git
 
 2. Next in the root directory, select the command:
 ./mvnw spring-boot:run
